@@ -127,7 +127,7 @@ Here you can see the list of Products (Latest Products) that we can order from t
 
 ---
 
-#### 4. Product Categories
+#### Product Categories
 
 Technology
 Phone
@@ -143,7 +143,7 @@ if we click on any one of categories (Technology , Phone, Laptop, Tablet) it wil
 
 ---
 
-#### 5. Search Functionality
+#### Search Functionality
 
 Easily search for products based on keywords
 
@@ -160,7 +160,7 @@ allowing users to select product quantity through a dropdown menu.
 
 ---
 
-#### 7. Proceed to checkout
+#### Proceed to checkout
 
 Now we will open the cart page, so in this cart page we can see the Product image , Product price, quantity and here we have the total price and delivery charges.
 
@@ -171,13 +171,12 @@ Payment
 In this cart page we can see payment details that we have created using the stripe.
 on this page also we can see the user information like (Card Number, Expiry Date, CVC, Zip Code). fill information and click on the pay button and complete.
 
-![7 checkout page](https://github.com/user-attachments/assets/da4aef9a-c41b-4367-a6f2-ec636518fbdb)
 ![7 delivery information , checkout page](https://github.com/user-attachments/assets/f83c106b-7476-4da4-a7dd-5581cf2d661f)
 ![8 order is placed](https://github.com/user-attachments/assets/c384362f-ca4d-425e-8a18-ade3540c3100)
 
 ---
 
-#### 8. Order Pages
+#### Order Pages
 
 After successful payment, we can see the order details.
 here is displaying the food details, quantity , total price , and the order status is processing.
@@ -187,7 +186,7 @@ here is displaying the food details, quantity , total price , and the order stat
 
 ---
 
-#### 9. Admin Dashboard
+#### Admin Dashboard
 
 Lets see the preview of our admin panel, here we have the four options
 Create Products, Products, Orders, Clients
