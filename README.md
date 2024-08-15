@@ -4,7 +4,7 @@ a full-stack web application built to revolutionize your online shopping experie
 
 Deployed link : https://e-commerce-app-h242.onrender.com/
 
-## Food Delivery App using MERN Stack
+## E Commerce App using Mern Stack
 
 - [Key Features](#key-features)
 - [Technologies used](#technologies-used)
